@@ -73,6 +73,11 @@ The Darwin typeface is named after my dog, Darwin, who was in turn named so by m
 
 You can find a photo of Darwin [here](https://darwintypeface.com/dogs/darwin/01.jpg) (extra photos: [[1]](https://darwintypeface.com/dogs/darwin/02.jpg), [[2]](https://darwintypeface.com/dogs/darwin/03.jpg), [[3]](https://darwintypeface.com/dogs/darwin/04.jpg), [[4]](https://darwintypeface.com/dogs/darwin/05.jpg), [[5]](https://darwintypeface.com/dogs/darwin/06.jpg)). Besides Darwin, I also had [Ed](https://darwintypeface.com/dogs/ed/01.jpg) (extra photos: [[1]](https://darwintypeface.com/dogs/ed/02.jpg), [[2]](https://darwintypeface.com/dogs/ed/03.jpg)), and currently have two other dogs, [Lola](https://darwintypeface.com/dogs/lola/01.jpg) (extra photos: [[1]](https://darwintypeface.com/dogs/lola/02.jpg), [[2]](https://darwintypeface.com/dogs/lola/03.jpg), [[3]](https://darwintypeface.com/dogs/lola/04.jpg)) and [Pequi](https://darwintypeface.com/dogs/pequi/01.jpg) (extra photos: [[1]](https://darwintypeface.com/dogs/pequi/02.jpg), [[2]](https://darwintypeface.com/dogs/pequi/03.jpg), [[3]](https://darwintypeface.com/dogs/pequi/04.jpg)).
 
+## Supporters
+The following people have supported this project financially:
+- Esther H.
+I'm immensely grateful for their support!
+
 ## Acknowledgements
 The following people have contributed to this project:
 

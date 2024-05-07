@@ -76,6 +76,7 @@ You can find a photo of Darwin [here](https://darwintypeface.com/dogs/darwin/01.
 ## Supporters
 The following people have supported this project financially:
 - Esther H.
+
 I'm immensely grateful for their support!
 
 ## Acknowledgements

@@ -5,9 +5,9 @@ This is the project repository for _Darwin_, a typeface for books and articles, 
 
 ## Overview
 * Darwin is a free and open-source typeface project aiming to cover a wide range of languages and specialist (including medievalist and linguistic) usage, coming in several optical sizes and with an accompanying math font.
-* The current state of progress on Darwin and planned future work is described in the section [Plan of Development and Progress](#plan-of-development-and-progress).
+* The current state of progress on Darwin and planned future work are described in the sections [Plan of Development](#plan-of-development) and [Progress](#progress).
 * Updates and progress reports are available via the [Updates section of the Darwin website](https://darwintypeface.com/updates.html), the [Darwin newsletter on Substack](https://emilydeoliveirasantos.substack.com/?r=1urmqa&utm_campaign=pub-share-checklist), or the [Discord server for Darwin](https://discord.gg/j73mpRgmgd).
-* If you'd like to support this project, there are several ways to do so; see [Support](#Support).
+* If you'd like to support this project, there are several ways to do so; see [Support](#support).
 
 ## Goals
 Darwin is a typeface project aiming to fulfill the following goals:
@@ -24,7 +24,7 @@ Darwin is a typeface project aiming to fulfill the following goals:
 3. It must come with a great number of optical sizes, from the smallest footnotes (~5pt), through headlines (~24pt), all the way up to book covers (~72pt).
 4. It must come with a high-quality and extensive family of math fonts of matching style and an accompanying LaTeX package.
 
-## Plan of Development and Progress
+## Plan of Development
 My work on Darwin will never end as long as I am able to work: there will always be extensions to other languages, additions of specialised glyphs, or polishing to do.
 
 That said, here's the current plan of development and work for Darwin:
@@ -41,6 +41,16 @@ Apart from the above, there are other things that can be done, but which aren't 
 - Experimenting with a variable width axis designed specifically for allowing a greater amount of expansion with [microtype](https://ctan.org/pkg/microtype); see [TeX SE 634421](https://tex.stackexchange.com/q/634421).
 - Designing extra families as required by math usage, such as Monospace for basic Latin.
 - Extending the font with other scripts as described in [Issue #01](https://github.com/topological-modular-forms/Darwin-Typeface/issues/1).
+
+## Progress
+Here's where the development of Darwin currently stands:
+- [x] Regular style for basic Latin designed.
+- [ ] Regular style for basic Latin polished.
+- [ ] Basic Latin coverage extended to bold, italic, and bold italic.
+- [ ] Basic Latin coverage extended to other optical sizes.
+- [ ] Repeat the above steps for ever larger glyph sets.
+
+Here “basic Latin” refers to the glyph set containing [A-Z][a-z][0-9], basic punctuation and alternate figures (old style, tabular, and tabular old style). A much wider glyph set has been designed for the Regular style of Darwin, which includes Greek, Cyrillic, extended Latin, etc., but work on extending the glyph set of the Regular style has been temporarily halted in favor of first polishing basic Latin and extending it to more styles, after which we'll go back to extending the glyph set for Darwin once more.
 
 ## Support
 If you'd like to support the development of this project, there are several ways in which you can help:

@@ -76,6 +76,12 @@ If you'd like to support the development of this project, there are several ways
 ## Build
 I'm currently working on migrating to Glyphs, and plan to implement a build process for Darwin using [`fontmake`](https://github.com/googlefonts/fontmake). For now, see the [`output`](https://github.com/topological-modular-forms/Darwin-Typeface/tree/main/output) folder for OTF and TTF font files.
 
+## Installation
+Copying the output/ files in the relevant directories of your computer should be sufficient.
+
+Alternatively, here are instructions for specific systems:
+- Archlinux: create the package by running `makepkg` and install it with `pacman -U`
+
 ## Why “Darwin”?
 The Darwin typeface is named after my dog, Darwin, who was in turn named so by my mother, after Charles Darwin:
 

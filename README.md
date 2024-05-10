@@ -128,5 +128,6 @@ Below are listed (in alphabetic order by surname) some people who have contribut
 - Mikael Sundqvist
 - Brauer Suzuki
 - N. Virgo
+- [Aiden Vrenna](https://github.com/serif)
 - Willie Wong
 - Liang Ze Wong

@@ -80,7 +80,14 @@ I'm currently working on migrating to Glyphs, and plan to implement a build proc
 Copying the output/ files in the relevant directories of your computer should be sufficient.
 
 Alternatively, here are instructions for specific systems:
-- Archlinux: create the package by running `makepkg` and install it with `pacman -U`
+### Archlinux
+Create the package and install it by running the following commands:
+```
+git clone https://github.com/topological-modular-forms/Darwin-Typeface/
+cd Darwin-Typeface
+makepkg
+sudo pacman -U darwin-$(date +%Y%m%d)-1-$(uname -m).pkg.tar.zst
+```
 
 ## Why “Darwin”?
 The Darwin typeface is named after my dog, Darwin, who was in turn named so by my mother, after Charles Darwin:

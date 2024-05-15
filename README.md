@@ -134,6 +134,7 @@ Below are listed (in alphabetic order by surname) some people who have contribut
 - Loren Spice
 - Mikael Sundqvist
 - Brauer Suzuki
+- [the_guruji](https://astrodon.social/@the_guruji)
 - N. Virgo
 - [Aiden Vrenna](https://github.com/serif)
 - Willie Wong

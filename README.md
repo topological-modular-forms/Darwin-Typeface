@@ -123,6 +123,7 @@ Below are listed (in alphabetic order by surname) some people who have contribut
 - [Sir Cornflakes](https://linguistics.stackexchange.com/users/9781/sir-cornflakes)
 - Yves de Cornulier
 - Austin Hemmelgarn
+- [the_guruji](https://astrodon.social/@the_guruji)
 - Sam Hopkins
 - [indicator](https://mathoverflow.net/users/521939/indicator)
 - Janus Bahs Jacquet
@@ -134,7 +135,7 @@ Below are listed (in alphabetic order by surname) some people who have contribut
 - Loren Spice
 - Mikael Sundqvist
 - Brauer Suzuki
-- [the_guruji](https://astrodon.social/@the_guruji)
+- Hal Motley
 - N. Virgo
 - [Aiden Vrenna](https://github.com/serif)
 - Willie Wong

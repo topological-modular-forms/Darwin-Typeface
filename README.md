@@ -124,6 +124,7 @@ Below are listed (in alphabetic order by surname) some people who have contribut
 - [Sir Cornflakes](https://linguistics.stackexchange.com/users/9781/sir-cornflakes)
 - Yves de Cornulier
 - Austin Hemmelgarn
+- [Joseph Ginsberg](https://www.linkedin.com/in/joseph-ginsberg-1a9ba6216/)
 - [the_guruji](https://astrodon.social/@the_guruji)
 - Sam Hopkins
 - [indicator](https://mathoverflow.net/users/521939/indicator)

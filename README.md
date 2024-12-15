@@ -99,8 +99,8 @@ You can find a photo of Darwin [here](https://darwintypeface.com/dogs/darwin/01.
 ## Supporters
 This project is currently supported by the following people:
 - Esther H.
-- Eli Heuer
 - Isaac Elenbaas
+- Alyssa Renata
 
 Their support is helping ensure I'm able to continue working on Darwin, and I'm immensely grateful for it!
 
